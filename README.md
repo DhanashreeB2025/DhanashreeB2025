@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanashreeb2025&label=Profile%20views&color=0e75b6&style=flat" alt="dhanashreeb2025" /> </p>
 
-- 💬 Ask me about **I'm currently pursuing an MSc in Chemical Biology and Drug Design from Somaiya Vidyavihar University. I have a strong interest in using computational tools to solve complex problems in drug development. I also have experience in molecular diagnostics, bioinformatics, and basic data analysis using Python.**
+- 💬 Ask me about **I'm currently pursuing an MSc in Chemical Biology and Drug Design from Somaiya Vidyavihar University. I have a strong interest in using computational tools to solve complex problems in drug development. I also have experience in molecular diagnostics, bioinformatics and basic data analysis using Python.**
 
 - 📫 How to reach me **dhanashreeb2025@gmail.com**
 
